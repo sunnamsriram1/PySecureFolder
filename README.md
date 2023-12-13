@@ -9,11 +9,15 @@ PySecureFolder is a Python-based utility designed to provide a secure and user-f
 
 ## Key Features
 
-Folder Locking: Quickly and securely lock entire folders, preventing unauthorized access to your private files.
-Advanced Encryption: Utilizes powerful encryption techniques to safeguard the contents of your locked folders.
-Password Protection: Enhance security by requiring a password for both locking and unlocking folders.
-Cross-Platform Compatibility: PySecureFolder seamlessly runs on Windows, macOS, and Linux, ensuring a consistent experience across different operating systems.
-Getting Started
+# Folder Locking:
+Quickly and securely lock entire folders, preventing unauthorized access to your private files.
+# Advanced Encryption: 
+Utilizes powerful encryption techniques to safeguard the contents of your locked folders.
+# Password Protection: 
+Enhance security by requiring a password for both locking and unlocking folders.
+# Cross-Platform Compatibility: 
+PySecureFolder seamlessly runs on Windows, macOS, and Linux, ensuring a consistent experience across different operating systems.
+# Getting Started
 Getting started with PySecureFolder is a breeze:
 
 ## Installation: 
