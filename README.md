@@ -1,7 +1,7 @@
 # PySecureFolder
-PySecureFolder is a Python-Based Tool
 
 
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FF2C10&background=31FF9400&width=435&lines=PySecureFolder+is+a+Python+Based+Tool%F0%9F%A4%9F)](https://git.io/typing-svg)
 
 ## PySecureFolder
 
@@ -48,6 +48,13 @@ Special thanks to [SUNNAM_SRIRAM_01] and all contributors for their valuable con
 Make sure to replace [Author SUNNAM_SRIRAM_01] with your actual name or the name of contributors you want to acknowledge. Feel free to customize the template further to better reflect the unique aspects of your PySecureFolder project.
 
 
+### Enjoy!!!
 
+### Blog:
+```
+https://teletechstore.blogspot.com](https://sprogram001zone.blogspot.com/?m=1
+```
+
+[![paypal](https://www.paypalobjects.com/en_US/i/btn/btn_donateCC_LG.gif)](https://paypal.me/Sunnam01ram)
 
 
