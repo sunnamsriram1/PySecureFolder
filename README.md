@@ -31,10 +31,9 @@ Contributions are welcomed! Feel free to open issues, submit pull requests, or c
 git clone https://github.com/sunnamsriram1/PySecureFolder.git
 cd PySecureFolder
 chmod +x flock5.1_enc.py
-pip -r install 
+pip -r install requirements.txt
 python3 flock5.1_enc.py
-
-
+```
 
 
 
