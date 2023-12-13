@@ -1,11 +1,8 @@
 
-pip install os
-pip install pycryptodome
-pip install pycryptodome
-pip install pycryptodome
-pip install getpass 
-pip install colorama
-pip install colorama
-pip install time
-pip install datetime
-pip install pytz
+os-sys
+pycryptodome
+getpass4
+colorama
+time
+datetime
+pytz
