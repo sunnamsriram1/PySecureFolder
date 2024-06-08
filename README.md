@@ -36,6 +36,7 @@ git clone https://github.com/sunnamsriram1/PySecureFolder.git
 cd PySecureFolder
 chmod +x flock5.1_enc.py
 pip -r install requirements.txt
+pip install pycryptodome
 python3 flock5.1_enc.py
 ```
 
