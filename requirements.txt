@@ -1,5 +1,6 @@
 
 os-sys
+pip install pycryptodome
 pycryptodome
 getpass4
 colorama
